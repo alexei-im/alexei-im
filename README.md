@@ -9,12 +9,16 @@ Welcome to my GitHub profile! I'm a scientist with a strong interest in keep lea
 - 🌍 Based in Mexico city
 - 📫 Reach me at: oscar.infmon@gmail.com
 
+## 📄 Curriculum Vitae
+
+You can view my CV [here](https://drive.google.com/file/d/1HdPrHUJLMqWeRXGyAzjRntHQd267PMNf/view?usp=sharing).
+
 ## 🔬 Featured Projects
 
 | Project | Description |
 |--------|-------------|
 | Cry gene family pipeline | Bioinformatics pipeline to analyze upstream sequence diversity in the *Cry* gene family from *Bacillus thuringiensis* |
-| Vip3Aa structural modeling [Article](https://doi.org/10.1371/journal.ppat.1012765) | Structural and functional analysis of the proteolytic activation of the Vip3Aa insecticidal protein | 
+| Vip3Aa structural modeling [link](https://doi.org/10.1371/journal.ppat.1012765) | Structural and functional analysis of the proteolytic activation of the Vip3Aa insecticidal protein | 
 
 ## 🛠️ Tools & Technologies
 
