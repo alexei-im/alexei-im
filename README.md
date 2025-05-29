@@ -44,7 +44,7 @@ You can view my CV [here](https://drive.google.com/file/d/1HdPrHUJLMqWeRXGyAzjRn
 
 Here are a few of my open-source or learning projects hosted here on GitHub:
 
-🔧 YouTube Clone: A basic frontend replica of YouTube built using HTML, CSS, and JavaScript.
+🔧 [YouTube Clone](https://alexei-im.github.io/Learning_HTMLandCSS/index.html): A basic frontend replica of YouTube built using HTML, CSS, and JavaScript.
 
 🧬 Learning RNA-seq: Personal notes, pipelines, and scripts for learning RNA-seq analysis in R and Python.
 
