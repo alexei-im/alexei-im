@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a scientist with a strong interest in keep lea
 
 | Project | Description |
 |--------|-------------|
-| [Cry gene family pipeline] | Bioinformatics pipeline to analyze upstream sequence diversity in the *Cry* gene family from *Bacillus thuringiensis* |
-| [Vip3Aa structural modeling] | Structural and functional analysis of the proteolytic activation of the Vip3Aa insecticidal protein | [Article](https://doi.org/10.1371/journal.ppat.1012765)
+| Cry gene family pipeline | Bioinformatics pipeline to analyze upstream sequence diversity in the *Cry* gene family from *Bacillus thuringiensis* |
+| Vip3Aa structural modeling [Article](https://doi.org/10.1371/journal.ppat.1012765) | Structural and functional analysis of the proteolytic activation of the Vip3Aa insecticidal protein | 
 
 ## 🛠️ Tools & Technologies
 
